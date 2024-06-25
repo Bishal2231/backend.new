@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a backend at bishal",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
@@ -12,5 +12,8 @@
     "backenda"
   ],
   "author": "bishal adhikari",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pretier": "^0.0.1"
+  }
 }
